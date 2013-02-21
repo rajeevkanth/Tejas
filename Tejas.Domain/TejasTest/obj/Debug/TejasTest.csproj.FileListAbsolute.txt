@@ -14,3 +14,19 @@
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasTest\obj\Debug\TejasTest.csprojResolveAssemblyReference.cache
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasTest\obj\Debug\TejasTest.exe
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasTest\obj\Debug\TejasTest.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\TejasTest.exe.config
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\TejasTest.exe
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\TejasTest.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Common.dll
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Contracts.dll
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\ServiceProvider.dll
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Tejas.Domain.dll
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\EntityFramework.dll
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Common.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Contracts.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\ServiceProvider.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\Tejas.Domain.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\bin\Debug\EntityFramework.xml
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\obj\Debug\TejasTest.csprojResolveAssemblyReference.cache
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\obj\Debug\TejasTest.exe
+C:\Projects\Core\Tejas\Tejas.Domain\TejasTest\obj\Debug\TejasTest.pdb

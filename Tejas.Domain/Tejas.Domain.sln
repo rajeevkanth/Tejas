@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TejasService", "TejasServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TejasTest", "TejasTest\TejasTest.csproj", "{42AE195B-1C2C-4461-AD64-AB1AD0EB9E88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tejas.Client", "Tejas.Client\Tejas.Client.csproj", "{A9760D71-0A68-4796-BF97-11AFC8D7A282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tejas.Client.Tests", "Tejas.Client.Tests\Tejas.Client.Tests.csproj", "{39F683AE-63A6-4562-95D3-6C29B5974537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{42AE195B-1C2C-4461-AD64-AB1AD0EB9E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AE195B-1C2C-4461-AD64-AB1AD0EB9E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AE195B-1C2C-4461-AD64-AB1AD0EB9E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9760D71-0A68-4796-BF97-11AFC8D7A282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9760D71-0A68-4796-BF97-11AFC8D7A282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9760D71-0A68-4796-BF97-11AFC8D7A282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9760D71-0A68-4796-BF97-11AFC8D7A282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F683AE-63A6-4562-95D3-6C29B5974537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F683AE-63A6-4562-95D3-6C29B5974537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F683AE-63A6-4562-95D3-6C29B5974537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F683AE-63A6-4562-95D3-6C29B5974537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

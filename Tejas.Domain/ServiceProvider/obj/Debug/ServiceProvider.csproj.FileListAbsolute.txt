@@ -12,3 +12,17 @@
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.csprojResolveAssemblyReference.cache
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.dll
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\ServiceProvider.dll.config
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\ServiceProvider.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\ServiceProvider.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Common.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Contracts.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Tejas.Domain.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\EntityFramework.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Common.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Contracts.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\Tejas.Domain.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\bin\Debug\EntityFramework.xml
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.csprojResolveAssemblyReference.cache
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.dll
+C:\Projects\Core\Tejas\Tejas.Domain\ServiceProvider\obj\Debug\ServiceProvider.pdb

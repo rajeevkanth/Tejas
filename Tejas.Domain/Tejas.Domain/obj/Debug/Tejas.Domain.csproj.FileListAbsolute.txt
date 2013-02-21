@@ -8,3 +8,13 @@
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.csprojResolveAssemblyReference.cache
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.dll
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.dll.config
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\Common.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\EntityFramework.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\Common.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\bin\Debug\EntityFramework.xml
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.pdb

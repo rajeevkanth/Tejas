@@ -5,6 +5,8 @@ using Contracts.Service;
 using Tejas.Domain.DomainContext;
 using Tejas.Domain.DomainModel;
 using System.Linq;
+using Common.Dtos;
+using Tejas.Domain.Infrastructure.Extensions;
 
 namespace TejasService.Services
 {
@@ -13,32 +15,32 @@ namespace TejasService.Services
     {
         private readonly ITejasContext _context = new TejasContext(); 
 
-        public void AddCustomer(Customer customer)
+        public void AddCustomer(CustomerDto customer)
         {
-            _context.AddCustomer(customer);
+            _context.AddCustomer(customer.ToDomain());
             _context.SaveChanges();
         }
 
-        public void AddOrder(Order order)
+        public void AddOrder(OrderDto order)
         {
-            _context.AddOrder(order);
+            _context.AddOrder(order.ToDomain());
             _context.SaveChanges();
         }
 
-        public void AddProduct(Product product)
+        public void AddProduct(ProductDto product)
         {
-            _context.AddProduct(product);
+            _context.AddProduct(product.ToDomain());
             _context.SaveChanges();
         }
 
-        public IList<Customer> GetAllCustomers()
+        public IList<CustomerDto> GetAllCustomers()
         {
-            return _context.Customers;
+            return _context.Customers.ToArray().Select(p=>p.ToDto()).ToList();
         }
 
-        public IList<Customer> GetCustomer(CustomerSearchQuery searchQuery)
+        public IList<CustomerDto> GetCustomer(CustomerSearchQuery searchQuery)
         {
-            return _context.Customers.Where(c => c.Name.Contains(searchQuery.Name)).ToList();
+            return _context.Customers.Where(c => c.Name.Contains(searchQuery.Name)).ToArray().Select(p=>p.ToDto()).ToList();
         }
     }
 }

@@ -11,8 +11,8 @@ namespace TejasTest
             try
             {
                 var provider = new TejasProvider();
-                var product = new Product {Cost = 100, Name = "Tejas"};
-                provider.AddProduct(product);
+                //var product = new Product {Cost = 100, Name = "Tejas"};
+                //provider.AddProduct(product);
                 Console.ReadLine();
             }
             catch(Exception ex)

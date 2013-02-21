@@ -9,3 +9,14 @@
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Contracts\obj\Debug\Contracts.dll
 \\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Contracts\obj\Debug\Contracts.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Contracts.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Contracts.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Common.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Tejas.Domain.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\EntityFramework.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Common.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\Tejas.Domain.pdb
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\bin\Debug\EntityFramework.xml
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\obj\Debug\Contracts.dll
+C:\Projects\Core\Tejas\Tejas.Domain\Contracts\obj\Debug\Contracts.pdb

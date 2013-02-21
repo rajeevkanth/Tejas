@@ -1,19 +1,20 @@
 ﻿using System.Collections.Generic;
 using Common;
 using Tejas.Domain.DomainModel;
+using Common.Dtos;
 
 namespace ServiceProvider.Interfaces
 {
     public interface ITejasProvider
     {
-        void AddCustomer(Customer customer);
+        void AddCustomer(CustomerDto customer);
 
-        void AddOrder(Order order);
+        void AddOrder(OrderDto order);
 
-        void AddProduct(Product product);
+        void AddProduct(ProductDto product);
 
-        IList<Customer> GetAllCustomers();
+        IList<CustomerDto> GetAllCustomers();
 
-        IList<Customer> GetCustomer(CustomerSearchQuery searchQuery);    
+        IList<CustomerDto> GetCustomer(CustomerSearchQuery searchQuery);    
     }
 }

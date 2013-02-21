@@ -2,6 +2,7 @@
 using System.ServiceModel;
 using Common;
 using Tejas.Domain.DomainModel;
+using Common.Dtos;
 
 namespace Contracts.Service
 {
@@ -9,18 +10,18 @@ namespace Contracts.Service
     public interface ITejasService
     {
         [OperationContract]
-        void AddCustomer(Customer customer);
+        void AddCustomer(CustomerDto customer);
 
         [OperationContract]
-        void AddOrder(Order order);
+        void AddOrder(OrderDto order);
 
         [OperationContract]
-        void AddProduct(Product product);
+        void AddProduct(ProductDto product);
 
         [OperationContract]
-        IList<Customer> GetAllCustomers();
+        IList<CustomerDto> GetAllCustomers();
 
         [OperationContract]
-        IList<Customer> GetCustomer(CustomerSearchQuery searchQuery);    
+        IList<CustomerDto> GetCustomer(CustomerSearchQuery searchQuery);    
     }
 }

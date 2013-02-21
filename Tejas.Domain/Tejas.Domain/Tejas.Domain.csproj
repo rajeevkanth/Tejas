@@ -53,6 +53,7 @@
     <Compile Include="DomainModel\Product.cs" />
     <Compile Include="DomainModel\ProductImage.cs" />
     <Compile Include="Infrastructure\DbContextBase.cs" />
+    <Compile Include="Infrastructure\Extensions\DtoToDomainMapping.cs" />
     <Compile Include="Infrastructure\Mappings\CustomerMap.cs" />
     <Compile Include="Infrastructure\Mappings\OrderMap.cs" />
     <Compile Include="Infrastructure\Mappings\ProductImageMap.cs" />
