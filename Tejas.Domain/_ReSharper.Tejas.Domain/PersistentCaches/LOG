@@ -1,0 +1,13 @@
+2013/02/19-09:41:47.300 2ddc Recovering log #12
+2013/02/19-09:41:47.313 2ddc Level-0 table #14: started
+2013/02/19-09:41:47.356 2ddc Level-0 table #14: 3997 bytes OK
+2013/02/19-09:41:47.424 2ddc Delete type=0 #12
+2013/02/19-09:41:47.442 2ddc Delete type=3 #10
+2013/02/19-09:41:47.562 2570 Compacting 4@0 + 0@1 files
+2013/02/19-09:41:47.671 2570 Generated table #16: 177 keys, 22530 bytes
+2013/02/19-09:41:47.671 2570 Compacted 4@0 + 0@1 files => 22530 bytes
+2013/02/19-09:41:47.679 2570 Delete type=2 #5
+2013/02/19-09:41:47.744 2570 Delete type=2 #8
+2013/02/19-09:41:47.760 2570 Delete type=2 #11
+2013/02/19-09:41:47.772 2570 Delete type=2 #14
+2013/02/19-09:41:47.786 2570 compacted to: files[ 0 1 0 0 0 0 0 ]

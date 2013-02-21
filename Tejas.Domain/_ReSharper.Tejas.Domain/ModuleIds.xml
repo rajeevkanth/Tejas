@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="50E7845C-0DE5-49C1-A899-87CBC8C42902" ModuleId="Tejas.Domain" />
+  <Module PersistentId="BFA9EAAF-151C-4325-BF1E-05FB732F9E81" ModuleId="Common" />
+  <Module PersistentId="B167B540-10C7-4745-BE14-6C941BE31DD8" ModuleId="Contracts" />
+  <Module PersistentId="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646" ModuleId="ServiceProvider" />
+  <Module PersistentId="System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.ServiceModel" />
+  <Module PersistentId="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1" ModuleId="TejasService" />
+  <Module PersistentId="42AE195B-1C2C-4461-AD64-AB1AD0EB9E88" ModuleId="TejasTest" />
+</Modules>

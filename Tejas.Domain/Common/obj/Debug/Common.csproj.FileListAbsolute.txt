@@ -1,0 +1,4 @@
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Common\bin\Debug\Common.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Common\bin\Debug\Common.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Common\obj\Debug\Common.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Common\obj\Debug\Common.pdb

@@ -1,0 +1,13 @@
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\TejasService.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\TejasService.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Common.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Contracts.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\EntityFramework.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Tejas.Domain.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Common.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Contracts.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\Tejas.Domain.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\bin\EntityFramework.xml
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\obj\Debug\TejasService.csprojResolveAssemblyReference.cache
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\obj\Debug\TejasService.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\TejasService\obj\Debug\TejasService.pdb

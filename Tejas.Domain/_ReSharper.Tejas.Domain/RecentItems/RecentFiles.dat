@@ -1,0 +1,53 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/f:packages.config" caret="50" fromTop="1" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:CustomerMap.cs" caret="186" fromTop="5" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:OrderMap.cs" caret="183" fromTop="5" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:ProductMap.cs" caret="311" fromTop="10" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/f:DbContextBase.cs" caret="457" fromTop="16" />
+    <File id="BFA9EAAF-151C-4325-BF1E-05FB732F9E81/f:CustomerSearchQuery.cs" caret="104" fromTop="4" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainContext/f:TejasContext.cs" caret="1256" fromTop="27" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:ProductImageMap.cs" caret="361" fromTop="15" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainContext/f:ITejasContext.cs" caret="385" fromTop="17" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Customer.cs" caret="166" fromTop="7" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Product.cs" caret="344" fromTop="15" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Order.cs" caret="230" fromTop="10" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:ProductImage.cs" caret="384" fromTop="16" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:DomainBase.cs" caret="228" fromTop="11" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/f:App.config" caret="60" fromTop="2" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Interfaces/f:ITejasProvider.cs" caret="431" fromTop="18" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Implementation/f:TejasProvider.cs" caret="261" fromTop="9" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/d:Services/f:TejasService.cs" caret="407" fromTop="11" />
+    <File id="B167B540-10C7-4745-BE14-6C941BE31DD8/d:Service/f:ITejasService.cs" caret="617" fromTop="25" />
+    <File id="42AE195B-1C2C-4461-AD64-AB1AD0EB9E88/f:App.config" caret="1437" fromTop="38" />
+    <File id="42AE195B-1C2C-4461-AD64-AB1AD0EB9E88/f:Program.cs" caret="431" fromTop="15" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Provider/f:ProviderBase.cs" caret="704" fromTop="17" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/f:Web.config" caret="2044" fromTop="35" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/f:Tejas.svc" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/f:DbContextBase.cs" caret="126" fromTop="4" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:CustomerMap.cs" caret="292" fromTop="10" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:OrderMap.cs" caret="366" fromTop="10" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:ProductImageMap.cs" caret="340" fromTop="12" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:Infrastructure/d:Mappings/f:ProductMap.cs" caret="311" fromTop="10" />
+    <File id="BFA9EAAF-151C-4325-BF1E-05FB732F9E81/f:CustomerSearchQuery.cs" caret="104" fromTop="4" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainContext/f:TejasContext.cs" caret="868" fromTop="24" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainContext/f:ITejasContext.cs" caret="0" fromTop="0" />
+    <File id="B167B540-10C7-4745-BE14-6C941BE31DD8/d:Service/f:ITejasService.cs" caret="532" fromTop="22" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Interfaces/f:ITejasProvider.cs" caret="178" fromTop="8" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Customer.cs" caret="368" fromTop="16" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:DomainBase.cs" caret="250" fromTop="12" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Order.cs" caret="463" fromTop="19" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:Product.cs" caret="344" fromTop="15" />
+    <File id="50E7845C-0DE5-49C1-A899-87CBC8C42902/d:DomainModel/f:ProductImage.cs" caret="341" fromTop="15" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/d:Services/f:TejasService.cs" caret="1287" fromTop="43" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/f:Tejas.svc" caret="86" fromTop="0" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Implementation/f:TejasProvider.cs" caret="479" fromTop="16" />
+    <File id="42AE195B-1C2C-4461-AD64-AB1AD0EB9E88/f:Program.cs" caret="579" fromTop="20" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/f:App.config" caret="60" fromTop="2" />
+    <File id="42AE195B-1C2C-4461-AD64-AB1AD0EB9E88/f:App.config" caret="1437" fromTop="38" />
+    <File id="0EBA6899-AEE4-4879-9DBF-C3B1FAA5F646/d:Provider/f:ProviderBase.cs" caret="702" fromTop="23" />
+    <File id="C77E4AE0-6C74-4ADF-8802-FACC9832A8F1/f:Web.config" caret="949" fromTop="13" />
+  </RecentEdits>
+</RecentFiles>

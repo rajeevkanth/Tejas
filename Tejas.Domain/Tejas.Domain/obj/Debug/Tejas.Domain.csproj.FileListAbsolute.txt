@@ -1,0 +1,10 @@
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.dll.config
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\Tejas.Domain.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\Common.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\EntityFramework.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\Common.pdb
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\bin\Debug\EntityFramework.xml
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.csprojResolveAssemblyReference.cache
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.dll
+\\bizdc1data\rajeev.mohandas$\Visual Studio 2012\Projects\Tejas.Domain\Tejas.Domain\obj\Debug\Tejas.Domain.pdb
